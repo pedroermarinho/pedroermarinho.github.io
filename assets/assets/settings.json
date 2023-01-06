@@ -1,0 +1,247 @@
+{
+  "name": "Pedro Marinho",
+  "email": "pedroermarinho@gmail.com",
+  "role": "Desenvolvedor",
+  "location": "Manaus, Amazonas, Brasil",
+  "photo": "https://avatars.githubusercontent.com/u/29618874?v=4",
+  "phone": {
+    "countryCode": "55",
+    "areaCode": "97",
+    "number": "991389183"
+  },
+  "socialNetworks": {
+    "github": "pedroermarinho",
+    "linkedin": "pedroermarinho",
+    "twitter": "pedroermarinho",
+    "instagram": "pedroermarinho",
+    "youtube": "pedro12131451"
+  },
+  "academic": [
+    {
+      "institution": "Centro Universitário Fametro",
+      "course": "Sistemas de Informação",
+      "startDate": "2019",
+      "endDate": "2022",
+      "type": "Bacharelado"
+    },
+    {
+      "institution": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM",
+      "course": "Técnico em Nível Médio em Informática",
+      "startDate": "2016",
+      "endDate": "2018",
+      "type": "Técnico"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Inglês",
+      "level": "basic"
+    },
+    {
+      "name": "Espanhol",
+      "level": "basic"
+    },
+    {
+      "name": "Português",
+      "level": "native"
+    }
+  ],
+  "jobs": [
+    {
+      "companyName": "Instituto Creathus",
+      "roles": [
+        {
+          "role": "Desenvolvedor Software Jr I",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2021/12",
+          "endDate": "2022/04",
+          "skills": [
+            "Liquibase",
+            "Jooq",
+            "Docker",
+            "MQTT",
+            "TypeScript",
+            "Java",
+            "Git",
+            "SQL",
+            "JavaScript",
+            "Spring Boot",
+            "React",
+            "Kotlin"
+          ]
+        },
+        {
+          "role": "Desenvolvedor Software Jr III",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2022/4",
+          "endDate": null,
+          "skills": [
+            "Liquibase",
+            "Jooq",
+            "Docker",
+            "MQTT",
+            "TypeScript",
+            "Java",
+            "Git",
+            "SQL",
+            "JavaScript",
+            "Spring Boot",
+            "React",
+            "Flutter",
+            "Kotlin"
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "Lepidus Tecnologia",
+      "roles": [
+        {
+          "role": "Estagiário em Desenvolvimento",
+          "location": "Remoto",
+          "startDate": "2021/8",
+          "endDate": "2021/12",
+          "skills": [
+            "Docker",
+            "Bash",
+            "Ansible",
+            "Git"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Liquibase",
+      "level": "intermediary"
+    },
+    {
+      "name": "Jooq",
+      "level": "intermediary"
+    },
+    {
+      "name": "Docker",
+      "level": "intermediary"
+    },
+    {
+      "name": "MQTT",
+      "level": "basic"
+    },
+    {
+      "name": "TypeScript",
+      "level": "intermediary"
+    },
+    {
+      "name": "Java",
+      "level": "intermediary"
+    },
+    {
+      "name": "Git",
+      "level": "intermediary"
+    },
+    {
+      "name": "SQL",
+      "level": "intermediary"
+    },
+    {
+      "name": "JavaScript",
+      "level": "intermediary"
+    },
+    {
+      "name": "Spring Boot",
+      "level": "intermediary"
+    },
+    {
+      "name": "React",
+      "level": "intermediary"
+    },
+    {
+      "name": "Kotlin",
+      "level": "intermediary"
+    },
+    {
+      "name": "Bash",
+      "level": "intermediary"
+    },
+    {
+      "name": "Ansible",
+      "level": "basic"
+    },
+    {
+      "name": "Python",
+      "level": "basic"
+    },
+    {
+      "name": "Flutter",
+      "level": "intermediary"
+    },
+    {
+      "name": "Dart",
+      "level": "intermediary"
+    },
+    {
+      "name": "Windows",
+      "level": "basic"
+    },
+    {
+      "name": "Linux",
+      "level": "intermediary"
+    }
+  ],
+  "links": [
+    {
+      "name": "Currículo Lattes",
+      "url": "http://lattes.cnpq.br/3336778821570004"
+    },
+    {
+      "name": "PhotoGIMP agora está disponível em Snap",
+      "url": "https://diolinux.com.br/noticias/photogimp-snapcraft-snap-ubuntu-gimp-photoshop-editor-imagem-linux.html"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PhotoGIMP",
+      "description": "PhotoGIMP é um editor de imagens baseado no GIMP, com o objetivo de facilitar a edição de imagens para iniciantes.",
+      "url": "https://pedroermarinho.github.io/photogimp/",
+      "github": "https://github.com/pedroermarinho/photogimp",
+      "snap": "https://snapcraft.io/photogimp"
+    },
+    {
+      "name": "SaudeFX",
+      "description": "Projeto feito em Java/JavaFX visando demostrar alguns indicadores de saúde.",
+      "url": "https://pedroermarinho.github.io/SaudeFX/",
+      "github": "https://github.com/pedroermarinho/SaudeFX",
+      "snap": "https://snapcraft.io/saudefx"
+    },
+    {
+      "name": "TopCorridaFX",
+      "description": "Programa feito em Java / JavaFX, voltado para o atletismo.",
+      "url": "https://pedroermarinho.github.io/TopCorridaFX/",
+      "github": "https://github.com/pedroermarinho/TopCorridaFX",
+      "snap": "https://snapcraft.io/topcorridafx"
+    },
+    {
+      "name": "VisualG Snap",
+      "description": "Snap do VisualG, um software para ensino de lógica de programação empacotado para em Snap.",
+      "url": "https://pedroermarinho.github.io/visualg/",
+      "github": "https://github.com/pedroermarinho/visualg",
+      "snap": "https://snapcraft.io/visualg"
+    },
+    {
+      "name": "ClinicaFX",
+      "description": "Programa feito em Java / JavaFX voltado para area da saúde.",
+      "url": "https://pedroermarinho.github.io/ClinicaFX/",
+      "github": "https://github.com/pedroermarinho/ClinicaFX",
+      "snap": "https://snapcraft.io/clinicafx"
+    },
+    {
+      "name": "Markdown Readme Generator",
+      "description": "Gerador de README.md para projetos no GitHub.",
+      "url": "https://snapcraft.io/mrgenerator-cli",
+      "github": "https://github.com/pedroermarinho/markdown-readme-generator",
+      "snap": "https://snapcraft.io/mrgenerator-cli",
+      "pypi": "https://pypi.org/project/markdown-readme-generator/"
+    }
+  ]
+}
