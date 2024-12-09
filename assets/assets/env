@@ -1,0 +1,4 @@
+IS_PRODUCTION=true
+RAW_GITHUB=https://raw.githubusercontent.com/pedroermarinho
+API_GITHUB=https://api.github.com/users/pedroermarinho/repos
+SETTINGS_URL=https://raw.githubusercontent.com/pedroermarinho/site/master/assets/settings.json
