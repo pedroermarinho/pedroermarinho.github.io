@@ -1,0 +1,284 @@
+{
+  "name": "Pedro Marinho",
+  "fullName": "Pedro Eduardo Rodrigues Marinho",
+  "birthDate": "02/01/2000",
+  "email": "pedroermarinho@gmail.com",
+  "role": "Desenvolvedor Full Stack Java | React",
+  "location": "Manaus, Amazonas, Brasil",
+  "photo": "https://avatars.githubusercontent.com/u/29618874?v=4",
+  "summary": "Tenho experiência como desenvolvedor mobile e fullstack, trabalhando com diversas linguagens, incluindo Java, Kotlin, Dart e TypeScript, assim como frameworks como Spring Boot, Flutter, React e Vue.js. Também tenho conhecimentos em práticas DevOps,utilizando ferramentas como Docker, GitHub Actions e CI/CD. Minha especialidade e foco principal estão no backend, onde concentro minha atuação em Java e Spring Boot.",
+  "phone": {
+    "countryCode": "55",
+    "areaCode": "97",
+    "number": "991389183"
+  },
+  "socialLinks": {
+    "github": "pedroermarinho",
+    "linkedin": "pedroermarinho",
+    "twitter": "pedroermarinho",
+    "instagram": "pedroermarinho",
+    "youtube": "@pedroermarinho"
+  },
+  "academic": [
+    {
+      "institution": "Centro Universitário Fametro",
+      "course": "Sistemas de Informação",
+      "startDate": "2019",
+      "endDate": "2022",
+      "type": "Bacharelado"
+    },
+    {
+      "institution": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM",
+      "course": "Técnico em Nível Médio em Informática",
+      "startDate": "2016",
+      "endDate": "2018",
+      "type": "Técnico"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Inglês",
+      "level": "basic"
+    },
+    {
+      "name": "Espanhol",
+      "level": "basic"
+    },
+    {
+      "name": "Português",
+      "level": "native"
+    }
+  ],
+  "workExperience": [
+    {
+      "companyName": "XMobots",
+      "details": [],
+      "roles": [
+        {
+          "role": "Desenvolvedor Software Jr",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2023/12",
+          "endDate": null,
+          "skills": [
+            "Java",
+            "Spring Boot",
+            "Keycloak",
+            "Jooq",
+            "React.js",
+            "TypeScript",
+            "ArcGIS.js",
+            "GeoServer"
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "Instituto Creathus",
+      "details": [
+        "Desenvolvimento de interfaces em Angular, Vue.js e React.",
+        "Gerenciamento de bancos de dados utilizando Liquibase.",
+        "Implementação de containers com Docker para ambientes desenvolvimento e teste.",
+        "Integração de sistemas através do protocolo MQTT.",
+        "Utilização Java, Kotlin e Spring Boot para construção de API Rest.",
+        "Desenvolvimento de aplicativos móveis usando Flutter.",
+        "Desenvolvimento com JPA e JOOQ para a manipulação de dados.",
+        "Utilização de princípios de SOLID, Clean Code e Clean Architecture para criar soluções mais organizadas, exíveis e de fácil manutenção."
+      ],
+      "roles": [
+        {
+          "role": "Desenvolvedor Software Jr I",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2021/12",
+          "endDate": "2022/04",
+          "skills": [
+            "Liquibase",
+            "Jooq",
+            "Docker",
+            "MQTT",
+            "TypeScript",
+            "Java",
+            "Git",
+            "SQL",
+            "JavaScript",
+            "Spring Boot",
+            "React",
+            "Kotlin"
+          ]
+        },
+        {
+          "role": "Desenvolvedor Software Jr III",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2022/4",
+          "endDate": "2023/2",
+          "skills": [
+            "Liquibase",
+            "Jooq",
+            "Docker",
+            "MQTT",
+            "TypeScript",
+            "Java",
+            "Git",
+            "SQL",
+            "JavaScript",
+            "Spring Boot",
+            "React",
+            "Flutter",
+            "Kotlin"
+          ]
+        },
+        {
+          "role": "Desenvolvedor Software PL I",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2023/2",
+          "endDate": "2023/11",
+          "skills": [
+            "Vue.js",
+            "Angular",
+            "MQTT",
+            "TypeScript",
+            "Java",
+            "Docker",
+            "Spring Boot",
+            "Liquibase",
+            "Git",
+            "SQL",
+            "JavaScript"
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "Lepidus Tecnologia",
+      "details": [
+        "Desenvolvimento e aprendizado em tecnologias como Bash, Ansible,Docker e Git.",
+        "Contribuição para projetos de código aberto."
+        ],
+      "roles": [
+        {
+          "role": "Estagiário em Desenvolvimento",
+          "location": "Remoto",
+          "startDate": "2021/8",
+          "endDate": "2021/12",
+          "skills": [
+            "Docker",
+            "Bash",
+            "Ansible",
+            "Git"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "primary": {
+      "languages": [
+        "Java",
+        "TypeScript",
+        "Dart",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Spring Boot",
+        "React",
+        "Flutter",
+        "ArcGIS.js",
+        "Ant Design"
+      ],
+      "tools": [
+        "Docker",
+        "Git",
+        "Liquibase"
+      ],
+      "platforms": [
+        "Keycloak"
+      ],
+      "databases": [
+        "SQL",
+        "Jooq",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "os": [
+        "Linux"
+      ]
+    },
+    "secondary": {
+      "languages": [
+        "Python",
+        "Kotlin",
+        "Bash"
+      ],
+      "frameworks": [
+        "Vue.js",
+        "Angular",
+        "Android Native",
+        "SingleSPA"
+      ],
+      "tools": [
+        "MQTT",
+        "Ansible"
+      ],
+      "databases": [
+        "Flyway"
+      ],
+      "platforms": [
+        "GeoServer",
+        "Mosquitto",
+        "RabbitMQ"
+      ],
+      "os": [
+        "Windows"
+      ]
+    }
+  },
+  "links": [
+    {
+      "name": "Currículo Lattes",
+      "url": "http://lattes.cnpq.br/3336778821570004"
+    },
+    {
+      "name": "PhotoGIMP agora está disponível em Snap",
+      "url": "https://diolinux.com.br/noticias/photogimp-snapcraft-snap-ubuntu-gimp-photoshop-editor-imagem-linux.html"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PhotoGIMP",
+      "description": "PhotoGIMP é um editor de imagens baseado no GIMP, com o objetivo de facilitar a edição de imagens para iniciantes.",
+      "type": "personal",
+      "status": "archived",
+      "skills": ["GIMP", "Bash", "Snapcraft"],
+      "markdown": "assets/md/photo_gimp.md",
+      "links": {
+        "site": "https://pedroermarinho.github.io/photogimp/",
+        "github": "https://github.com/pedroermarinho/photogimp",
+        "snap": "https://snapcraft.io/photogimp"
+      }
+    },
+    {
+      "name": "VisualG Snap",
+      "description": "Snap do VisualG, um software para ensino de lógica de programação empacotado para em Snap.",
+      "type": "personal",
+      "status": "archived",
+      "skills": ["Snapcraft", "Bash","Wine"],
+      "links": {
+        "site": "https://pedroermarinho.github.io/visualg/",
+        "github": "https://github.com/pedroermarinho/visualg",
+        "snap": "https://snapcraft.io/visualg"
+      }
+    },
+    {
+      "name": "Markdown Readme Generator",
+      "description": "Gerador de README.md para projetos no GitHub.",
+      "type": "professional",
+      "status": "paused",
+      "skills": ["Python", "CLI", "Pip", "Snapcraft","Jinja2"],
+      "links": {
+        "site": "https://snapcraft.io/mrgenerator-cli",
+        "github": "https://github.com/pedroermarinho/markdown-readme-generator",
+        "snap": "https://snapcraft.io/mrgenerator-cli",
+        "pypi": "https://pypi.org/project/markdown-readme-generator/"
+      }
+    }
+  ]
+}
