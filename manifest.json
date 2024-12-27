@@ -1,0 +1,23 @@
+{
+    "name": "Pedro Marinho - Desenvolvedor de Software",
+    "short_name": "pedroermarinho",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Pedro Marinho - Desenvolvedor de Software | Java, Spring Boot, Kotlin, Flutter | Pedro Eduardo Rodrigues Marinho, desenvolvedor de software em Manaus | Principal stack: Java, Spring Boot, TypeScript, React, Kotlin, Dart e Flutter | Experiência em projetos backend, frontend e mpbile, utiliza ferramentas como Docker, Keycloak, JOOQ e GeoServer | Desenvolvedor de software, Programador, Java, Spring Boot, Kotlin, Flutter, Dart, TypeScript, React, Backend, Frontend, Docker, Keycloak, JOOQ, GeoServer, ArcGIS, SQL, Git, Liquibase, MQTT, Desenvolvimento web, Desenvolvimento mobile, Sistemas de Informação, Manaus, Amazonas, Programação. ",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

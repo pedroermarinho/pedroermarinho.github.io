@@ -1,0 +1,361 @@
+{
+  "name": "Pedro Marinho",
+  "fullName": "Pedro Eduardo Rodrigues Marinho",
+  "birthDate": "02/01/2000",
+  "email": "pedroermarinho@gmail.com",
+  "role": "Desenvolvedor Full Stack Java | React",
+  "location": "Manaus, Amazonas, Brasil",
+  "photo": "https://avatars.githubusercontent.com/u/29618874?v=4",
+  "summary": "Sou Desenvolvedor Full Stack com ênfase em backend (Java e Spring Boot) e experiência em frontend (React e Antd). Possuo sólida atuação na criação de APIs RESTful, integração com bancos de dados relacionais e desenvolvimento de interfaces responsivas. Estou habituado a adotar práticas de engenharia de software, como SOLID, Clean Code e Clean Architecture, bem como a utilizar Docker para ambientes consistentes. Além disso, tenho vivência em desenvolvimento mobile com Flutter e integração de serviços geoespaciais. Busco continuamente aprimorar minhas habilidades e entregar soluções escaláveis e de fácil manutenção.",
+  "phone": {
+    "countryCode": "55",
+    "areaCode": "97",
+    "number": "991389183"
+  },
+  "socialLinks": {
+    "github": "pedroermarinho",
+    "linkedin": "pedroermarinho",
+    "twitter": "pedroermarinho",
+    "instagram": "pedroermarinho",
+    "youtube": "@pedroermarinho"
+  },
+  "academic": [
+    {
+      "institution": "Centro Universitário Fametro",
+      "course": "Sistemas de Informação",
+      "startDate": "2019",
+      "endDate": "2022",
+      "type": "Bacharelado"
+    },
+    {
+      "institution": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM",
+      "course": "Técnico em Nível Médio em Informática",
+      "startDate": "2016",
+      "endDate": "2018",
+      "type": "Técnico"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Inglês",
+      "level": "basic"
+    },
+    {
+      "name": "Espanhol",
+      "level": "basic"
+    },
+    {
+      "name": "Português",
+      "level": "native"
+    }
+  ],
+  "workExperience": [
+    {
+      "companyName": "XMobots",
+      "details": [
+        "Desenvolvimento de interfaces web com React, Ant Design e TypeScript.",
+        "Criação de plataformas WEBGIS com mapas interativos utilizando ArcGIS.js.",
+        "Gerenciamento e compartilhamento de dados geoespaciais com GeoServer, incluindo GeoTIFF e shapefiles.",
+        "Visualização de dados geoespaciais em 2D via WMS e em 3D com 3D Tiles.",
+        "Integração com Azure Blob Storage para armazenamento de dados geoespaciais.",
+        "Desenvolvimento de APIs RESTful com Java e Spring Boot.",
+        "Criação e gerenciamento de migrations de banco de dados com Flyway e SQL.",
+        "Armazenamento e manipulação de dados geoespaciais com PostGIS.",
+        "Desenvolvimento de plugins para Capacitor.js usando Android nativo.",
+        "Criação de testes automatizados com Gatling, Testcontainers e Spring Boot Test.",
+        "Gerenciamento de autenticação e autorização com Keycloak."
+      ],
+      "roles": [
+        {
+          "role": "Desenvolvedor Software Jr",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2023/12",
+          "endDate": null,
+          "skills": [
+            "Java",
+            "Spring Boot",
+            "Keycloak",
+            "Jooq",
+            "React.js",
+            "TypeScript",
+            "ArcGIS.js",
+            "GeoServer"
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "Instituto Creathus",
+      "details": [
+        "Desenvolvimento de interfaces em Angular, Vue.js e React.",
+        "Gerenciamento de migrations utilizando Liquibase.",
+        "Implementação de containers com Docker para ambientes desenvolvimento e teste.",
+        "Integração de sistemas através do protocolo MQTT.",
+        "Utilização Java, Kotlin e Spring Boot para construção de API Rest.",
+        "Desenvolvimento de aplicativos móveis usando Flutter.",
+        "Desenvolvimento com JPA e JOOQ para a manipulação de dados.",
+        "Utilização de princípios de SOLID, Clean Code e Clean Architecture."
+      ],
+      "roles": [
+        {
+          "role": "Desenvolvedor Software Jr I",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2021/12",
+          "endDate": "2022/04",
+          "skills": [
+            "Liquibase",
+            "Jooq",
+            "Docker",
+            "MQTT",
+            "TypeScript",
+            "Java",
+            "Git",
+            "SQL",
+            "JavaScript",
+            "Spring Boot",
+            "React",
+            "Kotlin"
+          ]
+        },
+        {
+          "role": "Desenvolvedor Software Jr III",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2022/4",
+          "endDate": "2023/2",
+          "skills": [
+            "Liquibase",
+            "Jooq",
+            "Docker",
+            "MQTT",
+            "TypeScript",
+            "Java",
+            "Git",
+            "SQL",
+            "JavaScript",
+            "Spring Boot",
+            "React",
+            "Flutter",
+            "Kotlin"
+          ]
+        },
+        {
+          "role": "Desenvolvedor Software PL I",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2023/2",
+          "endDate": "2023/11",
+          "skills": [
+            "Vue.js",
+            "Angular",
+            "MQTT",
+            "TypeScript",
+            "Java",
+            "Docker",
+            "Spring Boot",
+            "Liquibase",
+            "Git",
+            "SQL",
+            "JavaScript"
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "Lepidus Tecnologia",
+      "details": [
+        "Desenvolvimento e aprendizado em tecnologias como Bash, Ansible,Docker e Git.",
+        "Contribuição para projetos de código aberto."
+        ],
+      "roles": [
+        {
+          "role": "Estagiário em Desenvolvimento",
+          "location": "Remoto",
+          "startDate": "2021/8",
+          "endDate": "2021/12",
+          "skills": [
+            "Docker",
+            "Bash",
+            "Ansible",
+            "Git"
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "primary": {
+      "languages": [
+        "Java",
+        "TypeScript",
+        "Dart",
+        "JavaScript"
+      ],
+      "frameworks": [
+        "Spring Boot",
+        "React",
+        "Flutter",
+        "ArcGIS.js",
+        "Ant Design"
+      ],
+      "tools": [
+        "Docker",
+        "Git",
+        "Liquibase",
+        "Testcontainers"
+      ],
+      "platforms": [
+        "Keycloak"
+      ],
+      "databases": [
+        "SQL",
+        "Jooq",
+        "PostgreSQL",
+        "MySQL"
+      ],
+      "os": [
+        "Linux"
+      ]
+    },
+    "secondary": {
+      "languages": [
+        "Python",
+        "Kotlin",
+        "Bash"
+      ],
+      "frameworks": [
+        "Vue.js",
+        "Angular",
+        "Android Native",
+        "SingleSPA"
+      ],
+      "tools": [
+        "MQTT",
+        "Ansible",
+        "Gatling"
+      ],
+      "databases": [
+        "Flyway"
+      ],
+      "platforms": [
+        "GeoServer",
+        "Mosquitto",
+        "RabbitMQ"
+      ],
+      "os": [
+        "Windows"
+      ]
+    }
+  },
+  "links": [
+    {
+      "name": "Currículo Lattes",
+      "url": "http://lattes.cnpq.br/3336778821570004"
+    },
+    {
+      "name": "PhotoGIMP agora está disponível em Snap",
+      "url": "https://diolinux.com.br/noticias/photogimp-snapcraft-snap-ubuntu-gimp-photoshop-editor-imagem-linux.html"
+    },
+    {
+      "name": "MIST COMPUTING: A SOLUTION TO WATER WASTE IN INDUSTRY",
+      "url": "https://www.researchgate.net/publication/365830011_MIST_COMPUTING_A_SOLUTION_TO_WATER_WASTE_IN_INDUSTRY"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PhotoGIMP",
+      "description": "PhotoGIMP é um editor de imagens baseado no GIMP, com o objetivo de facilitar a edição de imagens para iniciantes.",
+      "type": "personal",
+      "status": "archived",
+      "skills": ["GIMP", "Bash", "Snapcraft"],
+      "links": {
+        "site": "https://pedroermarinho.github.io/photogimp/",
+        "github": "https://github.com/pedroermarinho/photogimp",
+        "snap": "https://snapcraft.io/photogimp"
+      }
+    },
+    {
+      "name": "VisualG Snap",
+      "description": "Snap do VisualG, um software para ensino de lógica de programação empacotado para em Snap.",
+      "type": "personal",
+      "status": "completed",
+      "skills": ["Snapcraft", "Bash","Wine"],
+      "links": {
+        "site": "https://pedroermarinho.github.io/visualg/",
+        "github": "https://github.com/pedroermarinho/visualg",
+        "snap": "https://snapcraft.io/visualg"
+      }
+    },
+    {
+      "name": "Markdown Readme Generator",
+      "description": "Gerador de README.md para projetos no GitHub.",
+      "type": "personal",
+      "status": "paused",
+      "skills": ["Python", "CLI", "Pip", "Snapcraft","Jinja2"],
+      "links": {
+        "site": "https://snapcraft.io/mrgenerator-cli",
+        "github": "https://github.com/pedroermarinho/markdown-readme-generator",
+        "snap": "https://snapcraft.io/mrgenerator-cli",
+        "pypi": "https://pypi.org/project/markdown-readme-generator/"
+      }
+    },
+    {
+      "name": "Linux Game Tweaks",
+      "description": "Linux Game Tweaks é um aplicativo voltado para oferecer ajustes e facilitar o gerenciamento de jogos no Linux. Ele serve como uma central de controle para jogos, permitindo configurar, monitorar e integrar várias ferramentas e sistemas utilizados no ambiente Linux para jogos.",
+      "type": "personal",
+      "status": "in_progress",
+      "skills": ["Flutter", "Dart", "Linux", "Steam"],
+      "links": {
+        "github": "https://github.com/pedroermarinho/linux_game_tweaks"
+      }
+    },
+    {
+      "name": "Smart Farm",
+      "description": "O projeto SmartFarm integrou sensores IoT para monitoramento e coleta de dados climáticos e pedológicos. Utilizando Docker Compose, ele unifica serviços como middleware, API, firmware e web, criando uma solução eficiente para agricultura de precisão. O projeto busca oferecer suporte à gestão agrícola inteligente, melhorando produtividade e eficiência no uso de recursos.",
+      "type": "personal",
+      "status": "completed",
+      "markdown": "assets/md/smart_farm/smart_farm.md",
+      "skills": ["IoT", "Docker", "Java", "Spring Boot", "React", "C", "MQTT", "Arduino", "PostgreSQL","Mosquitto"],
+      "links": {
+        "github": "https://github.com/pedroermarinho/SmartFarm-DOCKER"
+      }
+    },
+    {
+      "name": "Water Containment",
+      "description": "WaterContainment é um sistema baseado em computação em névoa e IOT detectar e conter vazamentos hídricos em ambientes industriais. Utilizando sensores IoT e integração via Docker Compose, o projeto fornece uma solução eficiente para monitoramento hídrico e redução de desperdícios.",
+      "type": "personal",
+      "status": "completed",
+      "markdown": "assets/md/water_containment/water_containment.md",
+      "skills": [
+        "IoT",
+        "Docker",
+        "Java",
+        "Spring Boot",
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "MQTT",
+        "Mosquitto"
+      ],
+      "links": {
+        "github": "https://github.com/pedroermarinho/WaterContainment-DOCKER",
+        "site": "https://www.researchgate.net/publication/365830011_MIST_COMPUTING_A_SOLUTION_TO_WATER_WASTE_IN_INDUSTRY"
+      }
+    },
+    {
+      "name": "Site",
+      "description": "Código-fonte do meu site pessoal e portfólio interativo desenvolvido em Flutter. Este projeto é uma demonstração prática de habilidades em Flutter Web e PWA, apresentando minha trajetória profissional e projetos de forma interativa.",
+      "type": "personal",
+      "status": "in_progress",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Flutter Web",
+        "Progressive Web App (PWA)",
+        "Frontend"
+      ],
+      "links": {
+        "homepage": "https://pedroermarinho.github.io",
+        "github": "https://github.com/pedroermarinho/site"
+      }
+    }
+  ]
+}
