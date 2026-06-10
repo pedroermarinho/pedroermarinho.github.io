@@ -1,0 +1,510 @@
+{
+  "name": "Pedro Marinho",
+  "fullName": "Pedro Marinho",
+  "birthDate": "02/01/2000",
+  "email": "pedroermarinho@gmail.com",
+  "role": "Software Engineer | Java • Kotlin • Spring Boot • React",
+  "location": "Manaus, Amazonas, Brasil",
+  "photo": "https://avatars.githubusercontent.com/u/29618874?v=4",
+  "summary": "Sou Desenvolvedor Full Stack Java com mais de 4 anos de experiência no desenvolvimento de sistemas escaláveis e de alta disponibilidade, com forte atuação em engenharia backend e arquitetura de software. Minha especialidade está no ecossistema Java e Spring Boot, onde projeto e mantenho APIs REST com foco em performance, segurança, integridade de dados e integração entre sistemas distribuídos. Atuo na modelagem de soluções backend aplicando SOLID, Clean Code, DDD e Clean Architecture para garantir evolução sustentável e fácil manutenção. Ao longo da trajetória participei de plataformas críticas envolvendo integração com dispositivos, sensores e grandes volumes de dados, incluindo sistemas WEBGIS para análise geoespacial, plataformas IoT para monitoramento industrial e soluções de gestão para piscicultura e automação de fábricas. Também desenvolvi soluções de telemetria com MQTT, processamento geoespacial com GeoServer e PostGIS, dashboards operacionais e integrações com serviços em nuvem. No full stack, contribuo com interfaces modernas em React e TypeScript e também com aplicações mobile em Flutter.",
+  "phone": {
+    "countryCode": "55",
+    "areaCode": "97",
+    "number": "991389183"
+  },
+  "socialLinks": {
+    "github": "pedroermarinho",
+    "linkedin": "pedroermarinho",
+    "twitter": "pedroermarinho",
+    "instagram": "pedroermarinho",
+    "youtube": "@pedroermarinho",
+    "facebook": null
+  },
+  "academic": [
+    {
+      "institution": "UNIPDS",
+      "course": "Java Applied Engineering",
+      "startDate": "2025/07",
+      "endDate": "2026/07",
+      "type": "Pós-graduação"
+    },
+    {
+      "institution": "Centro Universitário Fametro",
+      "course": "Sistemas de Informação",
+      "startDate": "2019",
+      "endDate": "2022",
+      "type": "Bacharelado"
+    },
+    {
+      "institution": "Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - IFAM",
+      "course": "Técnico em Informática",
+      "startDate": "2016",
+      "endDate": "2018",
+      "type": "Técnico"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Português",
+      "level": "native"
+    },
+    {
+      "name": "Inglês",
+      "level": "básico"
+    },
+    {
+      "name": "Espanhol",
+      "level": "básico"
+    }
+  ],
+  "workExperience": [
+    {
+      "companyName": "XMobots® - Drones",
+      "details": [],
+      "tags": ["fullstack", "backend", "frontend"],
+      "roles": [
+        {
+          "role": "Desenvolvedor de Software | Full Stack Java",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2023/12",
+          "endDate": null,
+          "tags": ["fullstack", "backend", "frontend"],
+          "skills": [
+            {"name": "Java", "tags": ["backend", "fullstack"]},
+            {"name": "Spring Boot", "tags": ["backend", "fullstack"]},
+            {"name": "JOOQ", "tags": ["backend", "fullstack"]},
+            {"name": "React", "tags": ["frontend", "fullstack"]},
+            {"name": "TypeScript", "tags": ["frontend", "fullstack"]},
+            {"name": "Ant Design", "tags": ["frontend", "fullstack"]},
+            {"name": "ArcGIS.js", "tags": ["frontend", "fullstack"]},
+            {"name": "GeoServer", "tags": ["backend", "fullstack"]},
+            {"name": "PostGIS", "tags": ["backend", "fullstack"]},
+            {"name": "Grafana", "tags": ["backend", "fullstack"]},
+            {"name": "Loki", "tags": ["backend", "fullstack"]},
+            {"name": "Keycloak", "tags": ["backend", "fullstack"]},
+            {"name": "gRPC", "tags": ["backend", "fullstack"]},
+            {"name": "GraphQL", "tags": ["backend", "fullstack"]}
+          ],
+          "details": [
+            {"description": "Desenvolvimento de plataforma WEBGIS com React, TypeScript, Ant Design e ArcGIS.js, implementando mapas interativos, análise geoespacial, controle de camadas, estilos, basemaps e ferramentas de desenho para planejamento de áreas de missão.", "tags": ["frontend", "fullstack"]},
+            {"description": "Arquitetura e desenvolvimento de APIs backend com Java e Spring Boot, padronização de DTOs, tratamento centralizado de erros e acesso a dados com JOOQ, além de integrações via REST, gRPC e GraphQL.", "tags": ["backend", "fullstack"]},
+            {"description": "Implementação de infraestrutura geoespacial escalável com GeoServer, PostGIS e padrões OGC (WMS/OWS) para publicação e visualização de grandes volumes de dados em 2D e 3D (3D Tiles).", "tags": ["backend", "fullstack"]},
+            {"description": "Otimização do processamento geoespacial substituindo KML pesado por GeoServer e FlatGeobuf, reduzindo renderização de minutos para segundos e eliminando problemas de memória no backend.", "tags": ["backend", "fullstack"]},
+            {"description": "Implementação de suporte a GeoTIFFs de até 25GB utilizando Cloud Optimized GeoTIFF (COG) em Azure Blob Storage, permitindo visualização sob demanda.", "tags": ["backend", "fullstack"]},
+            {"description": "Desenvolvimento de simulador de voo para drones DJI T40, reproduzindo telemetria, rotas e eventos de pulverização, reduzindo testes de integração de 1-2 horas para poucos minutos.", "tags": ["backend", "fullstack"]},
+            {"description": "Implementação de pipeline de armazenamento e distribuição de dados geoespaciais com Azure Blob Storage e download de arquivos grandes via streaming no OutputStream, reduzindo consumo de memória.", "tags": ["backend", "fullstack"]},
+            {"description": "Estruturação de monitoramento e observabilidade com Grafana, Loki e Spring Actuator para acompanhamento de disponibilidade, métricas técnicas e indicadores de negócio.", "tags": ["backend", "fullstack"]},
+            {"description": "Implementação de segurança e controle de acesso com Keycloak para autenticação e autorização de serviços.", "tags": ["backend", "fullstack"]},
+            {"description": "Garantia de qualidade com testes automatizados e de carga utilizando Testcontainers, Spring Boot Test e Gatling, além de participação em code reviews, definição de padrões técnicos e mentoria de desenvolvedores.", "tags": ["backend", "fullstack"]}
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "Instituto Creathus",
+      "details": [],
+      "tags": ["fullstack", "backend", "frontend"],
+      "roles": [
+        {
+          "role": "Desenvolvedor de Software | Full Stack Java Jr I",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2021/12",
+          "endDate": "2022/04",
+          "tags": ["fullstack", "backend", "frontend"],
+          "skills": [
+            {"name": "Java", "tags": ["backend", "fullstack"]},
+            {"name": "Kotlin", "tags": ["backend", "fullstack"]},
+            {"name": "Spring Boot", "tags": ["backend", "fullstack"]},
+            {"name": "React", "tags": ["frontend", "fullstack"]},
+            {"name": "TypeScript", "tags": ["frontend", "fullstack"]},
+            {"name": "JPA", "tags": ["backend", "fullstack"]},
+            {"name": "JOOQ", "tags": ["backend", "fullstack"]},
+            {"name": "Liquibase", "tags": ["backend", "fullstack"]},
+            {"name": "MQTT", "tags": ["backend", "fullstack"]},
+            {"name": "Docker", "tags": ["backend", "fullstack"]}
+          ],
+          "details": [
+            {"description": "Desenvolvimento de aplicações web full stack utilizando React e TypeScript no frontend e Java/Kotlin com Spring Boot no backend para construção de APIs REST.", "tags": ["fullstack"]},
+            {"description": "Desenvolvimento e manutenção de serviços backend utilizando JPA e JOOQ para manipulação e persistência de dados, com versionamento de banco através de Liquibase.", "tags": ["backend", "fullstack"]},
+            {"description": "Integração de sistemas e dispositivos utilizando MQTT, permitindo comunicação assíncrona e ingestão de dados de equipamentos e sensores.", "tags": ["backend", "fullstack"]},
+            {"description": "Estruturação de ambientes de desenvolvimento e testes com Docker, garantindo padronização de infraestrutura entre equipes.", "tags": ["backend", "fullstack"]},
+            {"description": "Desenvolvimento da plataforma utilizada para identificação e registro de defeitos em placas eletrônicas, permitindo que operadores localizassem visualmente o ponto de falha ao selecionar a posição diretamente na imagem da placa.", "tags": ["frontend", "backend", "fullstack"]}
+          ]
+        },
+        {
+          "role": "Desenvolvedor de Software | Full Stack Java Jr III",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2022/04",
+          "endDate": "2023/02",
+          "tags": ["fullstack", "backend", "frontend"],
+          "skills": [
+            {"name": "Java", "tags": ["backend", "fullstack"]},
+            {"name": "Kotlin", "tags": ["backend", "fullstack"]},
+            {"name": "Spring Boot", "tags": ["backend", "fullstack"]},
+            {"name": "React", "tags": ["frontend", "fullstack"]},
+            {"name": "TypeScript", "tags": ["frontend", "fullstack"]},
+            {"name": "JPA", "tags": ["backend", "fullstack"]},
+            {"name": "JOOQ", "tags": ["backend", "fullstack"]},
+            {"name": "Liquibase", "tags": ["backend", "fullstack"]},
+            {"name": "MQTT", "tags": ["backend", "fullstack"]},
+            {"name": "Mosquitto", "tags": ["backend", "fullstack"]},
+            {"name": "Docker", "tags": ["backend", "fullstack"]},
+            {"name": "Flutter", "tags": ["frontend", "fullstack"]}
+          ],
+          "details": [
+            {"description": "Liderança técnica em projetos de P&D, coordenando pequenas equipes de desenvolvimento, definição de arquitetura e acompanhamento da implementação de soluções.", "tags": ["backend", "fullstack"]},
+            {"description": "Desenvolvimento de plataforma de gestão para produção de piscicultura de pirarucu, permitindo controle completo de tanques, estoque de insumos e acompanhamento do ciclo produtivo.", "tags": ["fullstack", "backend"]},
+            {"description": "Implementação de monitoramento em tempo real de tanques, integrando sensores via MQTT para coleta de mais de 16 parâmetros ambientais.", "tags": ["backend", "fullstack"]},
+            {"description": "Desenvolvimento de dashboards operacionais para visualização de indicadores de produção e histórico de tanques.", "tags": ["frontend", "fullstack"]},
+            {"description": "Desenvolvimento de plataforma de monitoramento ambiental para ambientes industriais conforme a NR-15, coletando dados de sensores de ruído, calor, radiação, vibração e partículas no ar, com mapas e dashboards de risco ocupacional em tempo real.", "tags": ["backend", "frontend", "fullstack"]},
+            {"description": "Desenvolvimento de aplicações móveis e web com Flutter, incluindo um projeto de marketplace para conexão entre empresas e fornecedores de produtos.", "tags": ["frontend", "fullstack"]}
+          ]
+        },
+        {
+          "role": "Desenvolvedor de Software | Full Stack Java PL I",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2023/02",
+          "endDate": "2023/11",
+          "tags": ["fullstack", "backend", "frontend"],
+          "skills": [
+            {"name": "Java", "tags": ["backend", "fullstack"]},
+            {"name": "Kotlin", "tags": ["backend", "fullstack"]},
+            {"name": "Spring Boot", "tags": ["backend", "fullstack"]},
+            {"name": "Angular", "tags": ["frontend", "fullstack"]},
+            {"name": "Vue.js", "tags": ["frontend", "fullstack"]},
+            {"name": "React", "tags": ["frontend", "fullstack"]},
+            {"name": "JPA", "tags": ["backend", "fullstack"]},
+            {"name": "JOOQ", "tags": ["backend", "fullstack"]},
+            {"name": "Liquibase", "tags": ["backend", "fullstack"]},
+            {"name": "MQTT", "tags": ["backend", "fullstack"]},
+            {"name": "Docker", "tags": ["backend", "fullstack"]},
+            {"name": "Flutter", "tags": ["frontend", "fullstack"]}
+          ],
+          "details": [
+            {"description": "Desenvolvimento de aplicações web full stack com Angular, Vue.js e React no frontend e Java/Kotlin com Spring Boot no backend para construção de APIs REST.", "tags": ["fullstack"]},
+            {"description": "Desenvolvimento de soluções para indústria e automação de fábricas, incluindo monitoramento de downtime de máquinas por ingestão e análise de logs de equipamentos.", "tags": ["backend", "fullstack"]},
+            {"description": "Implementação de sistema de bancada de testes automatizados para roteadores (Life Test), controlando entrada e saída de dispositivos em racks e o ciclo completo de validação de hardware.", "tags": ["backend", "fullstack"]},
+            {"description": "Implementação de arquitetura orientada a eventos para integração com dispositivos e sistemas industriais utilizando MQTT para comunicação assíncrona e ingestão de telemetria.", "tags": ["backend", "fullstack"]},
+            {"description": "Aplicação consistente de SOLID, Clean Code e Clean Architecture para garantir organização, manutenibilidade e escalabilidade.", "tags": ["backend", "fullstack"]}
+          ]
+        }
+      ]
+    },
+    {
+      "companyName": "Lepidus Tecnologia",
+      "details": [],
+      "tags": ["fullstack", "backend"],
+      "roles": [
+        {
+          "role": "Estagiário em Desenvolvimento",
+          "location": "Manaus, Amazonas, Brasil",
+          "startDate": "2021/08",
+          "endDate": "2021/12",
+          "tags": ["fullstack", "backend"],
+          "skills": [
+            {"name": "Bash", "tags": ["backend", "fullstack"]},
+            {"name": "Ansible", "tags": ["backend", "fullstack"]},
+            {"name": "Docker", "tags": ["backend", "fullstack"]},
+            {"name": "Git", "tags": ["backend", "fullstack"]}
+          ],
+          "details": [
+            {"description": "Desenvolvimento e aprendizado em tecnologias como Bash, Ansible, Docker e Git.", "tags": ["backend", "fullstack"]},
+            {"description": "Contribuição para projetos de código aberto.", "tags": ["backend", "fullstack"]}
+          ]
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "primary": {
+      "languages": [
+        {"name": "Java", "tags": ["backend", "fullstack"]},
+        {"name": "Kotlin", "tags": ["backend", "fullstack"]},
+        {"name": "TypeScript", "tags": ["frontend", "fullstack"]},
+        {"name": "Dart", "tags": ["frontend", "fullstack"]},
+        {"name": "JavaScript", "tags": ["frontend", "fullstack"]}
+      ],
+      "frameworks": [
+        {"name": "Spring Boot", "tags": ["backend", "fullstack"]},
+        {"name": "React", "tags": ["frontend", "fullstack"]},
+        {"name": "Flutter", "tags": ["frontend", "fullstack"]},
+        {"name": "ArcGIS.js", "tags": ["frontend", "fullstack"]},
+        {"name": "Ant Design", "tags": ["frontend", "fullstack"]}
+      ],
+      "tools": [
+        {"name": "API REST", "tags": ["backend", "fullstack"]},
+        {"name": "JPA/Hibernate", "tags": ["backend", "fullstack"]},
+        {"name": "Docker", "tags": ["backend", "fullstack"]},
+        {"name": "CI/CD", "tags": ["backend", "fullstack"]},
+        {"name": "Flyway", "tags": ["backend", "fullstack"]},
+        {"name": "Git", "tags": ["backend", "frontend", "fullstack"]},
+        {"name": "Liquibase", "tags": ["backend", "fullstack"]},
+        {"name": "MQTT", "tags": ["backend", "fullstack"]},
+        {"name": "Grafana", "tags": ["backend", "fullstack"]},
+        {"name": "Spring Actuator", "tags": ["backend", "fullstack"]},
+        {"name": "Testcontainers", "tags": ["backend", "fullstack"]}
+      ],
+      "platforms": [
+        {"name": "Keycloak", "tags": ["backend", "fullstack"]},
+        {"name": "GeoServer", "tags": ["backend", "fullstack"]},
+        {"name": "Docker", "tags": ["backend", "fullstack"]},
+        {"name": "S3", "tags": ["backend", "fullstack"]},
+        {"name": "VPS", "tags": ["backend", "fullstack"]},
+        {"name": "Dokploy", "tags": ["backend", "fullstack"]}
+      ],
+      "databases": [
+        {"name": "SQL", "tags": ["backend", "fullstack"]},
+        {"name": "Jooq", "tags": ["backend", "fullstack"]},
+        {"name": "PostgreSQL", "tags": ["backend", "fullstack"]},
+        {"name": "PostGIS", "tags": ["backend", "fullstack"]},
+        {"name": "MySQL", "tags": ["backend", "fullstack"]}
+      ],
+      "os": [
+        {"name": "Linux", "tags": ["backend", "fullstack"]},
+        {"name": "Android", "tags": ["frontend", "fullstack"]}
+      ]
+    },
+    "secondary": {
+      "languages": [
+        {"name": "Python", "tags": ["backend", "fullstack"]},
+        {"name": "Bash", "tags": ["backend", "fullstack"]}
+      ],
+      "frameworks": [
+        {"name": "Quarkus", "tags": ["backend", "fullstack"]},
+        {"name": "Vue.js", "tags": ["frontend", "fullstack"]},
+        {"name": "Angular", "tags": ["frontend", "fullstack"]},
+        {"name": "Android Native", "tags": ["frontend", "fullstack"]},
+        {"name": "SingleSPA", "tags": ["frontend", "fullstack"]}
+      ],
+      "tools": [
+        {"name": "Ansible", "tags": ["backend", "fullstack"]},
+        {"name": "Gatling", "tags": ["backend", "fullstack"]},
+        {"name": "SOLID", "tags": ["backend", "fullstack"]},
+        {"name": "Clean Code", "tags": ["backend", "fullstack"]},
+        {"name": "Clean Architecture", "tags": ["backend", "fullstack"]},
+        {"name": "DDD", "tags": ["backend", "fullstack"]}
+      ],
+      "databases": [],
+      "platforms": [
+        {"name": "Mosquitto", "tags": ["backend", "fullstack"]},
+        {"name": "RabbitMQ", "tags": ["backend", "fullstack"]},
+        {"name": "Kubernetes", "tags": ["backend", "fullstack"]}
+      ],
+      "os": [
+        {"name": "Windows", "tags": ["frontend", "backend", "fullstack"]}
+      ]
+    }
+  },
+  "links": [
+    {
+      "name": "Currículo Lattes",
+      "url": "http://lattes.cnpq.br/3336778821570004"
+    },
+    {
+      "name": "PhotoGIMP agora está disponível em Snap",
+      "url": "https://diolinux.com.br/noticias/photogimp-snapcraft-snap-ubuntu-gimp-photoshop-editor-imagem-linux.html"
+    },
+    {
+      "name": "MIST COMPUTING: A SOLUTION TO WATER WASTE IN INDUSTRY",
+      "url": "https://www.researchgate.net/publication/365830011_MIST_COMPUTING_A_SOLUTION_TO_WATER_WASTE_IN_INDUSTRY"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PhotoGIMP",
+      "description": "PhotoGIMP é um editor de imagens baseado no GIMP, com o objetivo de facilitar a edição de imagens para iniciantes.",
+      "type": "personal",
+      "status": "archived",
+      "tags": ["frontend", "fullstack"],
+      "skills": [
+        "GIMP",
+        "Bash",
+        "Snapcraft"
+      ],
+      "links": {
+        "site": "https://pedroermarinho.github.io/photogimp/",
+        "github": "https://github.com/pedroermarinho/photogimp",
+        "snap": "https://snapcraft.io/photogimp"
+      }
+    },
+    {
+      "name": "VisualG Snap",
+      "description": "Snap do VisualG, um software para ensino de lógica de programação empacotado para em Snap.",
+      "type": "personal",
+      "status": "completed",
+      "tags": ["frontend", "fullstack"],
+      "skills": [
+        "Snapcraft",
+        "Bash",
+        "Wine"
+      ],
+      "links": {
+        "site": "https://pedroermarinho.github.io/visualg/",
+        "github": "https://github.com/pedroermarinho/visualg",
+        "snap": "https://snapcraft.io/visualg"
+      }
+    },
+    {
+      "name": "Markdown Readme Generator",
+      "description": "Gerador de README.md para projetos no GitHub.",
+      "type": "personal",
+      "status": "paused",
+      "tags": ["backend", "fullstack"],
+      "skills": [
+        "Python",
+        "CLI",
+        "Pip",
+        "Snapcraft",
+        "Jinja2"
+      ],
+      "links": {
+        "site": "https://snapcraft.io/mrgenerator-cli",
+        "github": "https://github.com/pedroermarinho/markdown-readme-generator",
+        "snap": "https://snapcraft.io/mrgenerator-cli",
+        "pypi": "https://pypi.org/project/markdown-readme-generator/"
+      }
+    },
+    {
+      "name": "Linux Game Tweaks",
+      "description": "Linux Game Tweaks é um aplicativo voltado para oferecer ajustes e facilitar o gerenciamento de jogos no Linux. Ele serve como uma central de controle para jogos, permitindo configurar, monitorar e integrar várias ferramentas e sistemas utilizados no ambiente Linux para jogos.",
+      "type": "personal",
+      "status": "in_progress",
+      "tags": ["frontend", "fullstack"],
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Linux",
+        "Steam"
+      ],
+      "links": {
+        "github": "https://github.com/pedroermarinho/linux_game_tweaks"
+      }
+    },
+    {
+      "name": "Smart Farm",
+      "description": "O projeto SmartFarm integrou sensores IoT para monitoramento e coleta de dados climáticos e pedológicos. Utilizando Docker Compose, ele unifica serviços como middleware, API, firmware e web, criando uma solução eficiente para agricultura de precisão. O projeto busca oferecer suporte à gestão agrícola inteligente, melhorando produtividade e eficiência no uso de recursos.",
+      "type": "personal",
+      "status": "completed",
+      "tags": ["backend", "fullstack"],
+      "markdown": "assets/md/smart_farm/smart_farm.md",
+      "skills": [
+        "IoT",
+        "Docker",
+        "Java",
+        "Spring Boot",
+        "React",
+        "C",
+        "MQTT",
+        "Arduino",
+        "PostgreSQL",
+        "Mosquitto"
+      ],
+      "links": {
+        "github": "https://github.com/pedroermarinho/SmartFarm-DOCKER"
+      }
+    },
+    {
+      "name": "Water Containment",
+      "description": "WaterContainment é um sistema baseado em computação em névoa e IOT detectar e conter vazamentos hídricos em ambientes industriais. Utilizando sensores IoT e integração via Docker Compose, o projeto fornece uma solução eficiente para monitoramento hídrico e redução de desperdícios.",
+      "type": "personal",
+      "status": "completed",
+      "tags": ["backend", "fullstack"],
+      "markdown": "assets/md/water_containment/water_containment.md",
+      "skills": [
+        "IoT",
+        "Docker",
+        "Java",
+        "Spring Boot",
+        "React",
+        "TypeScript",
+        "PostgreSQL",
+        "MQTT",
+        "Mosquitto"
+      ],
+      "links": {
+        "github": "https://github.com/pedroermarinho/WaterContainment-DOCKER",
+        "site": "https://www.researchgate.net/publication/365830011_MIST_COMPUTING_A_SOLUTION_TO_WATER_WASTE_IN_INDUSTRY"
+      }
+    },
+    {
+      "name": "Site",
+      "description": "Código-fonte do meu site pessoal e portfólio interativo desenvolvido em Flutter. Este projeto é uma demonstração prática de habilidades em Flutter Web e PWA, apresentando minha trajetória profissional e projetos de forma interativa.",
+      "type": "personal",
+      "status": "in_progress",
+      "tags": ["frontend", "fullstack"],
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Flutter Web",
+        "Progressive Web App (PWA)",
+        "Frontend"
+      ],
+      "links": {
+        "homepage": "https://pedroermarinho.github.io",
+        "github": "https://github.com/pedroermarinho/site"
+      }
+    }
+  ],
+  "keyCompetencies": [
+    {"name": "API REST", "tags": ["backend", "fullstack"]},
+    {"name": "Desenvolvimento de back-end", "tags": ["backend", "fullstack"]},
+    {"name": "Programação Orientada a Objetos (POO)", "tags": ["backend", "fullstack"]},
+    {"name": "React", "tags": ["frontend", "fullstack"]},
+    {"name": "TypeScript", "tags": ["frontend", "fullstack"]}
+  ],
+  "professionalQualities": [
+    "Forte visão arquitetural e pensamento sistêmico",
+    "Orientação a resultados e qualidade de código",
+    "Boa comunicação com times técnicos e de negócio",
+    "Colaboração ativa e mentoria técnica",
+    "Compromisso com boas práticas e evolução contínua"
+  ],
+  "certifications": [
+    {"name": "Java e Clean Architecture: Descomplicando arquitetura de software", "issuer": "Alura", "date": "2022-02", "credentialId": "9fdd12a1-0f55-4875-8ecb-b44d552bdca5"},
+    {"name": "Clean Architecture na prática e não no Hype", "issuer": "Dev Eficiente"},
+    {"name": "TDD e Java: Testes automatizados com JUnit", "issuer": "Alura", "date": "2022-01", "credentialId": "bae15a42-6ad5-4850-a000-3474f46f2af6"},
+    {"name": "Design Patterns em Java I: Introdução às boas práticas de programação", "issuer": "Alura", "date": "2022-01", "credentialId": "17ea77ed-8768-4167-b7d0-9135086b0734"},
+    {"name": "Design Patterns em Java II: Avançando nas boas práticas de programação", "issuer": "Alura", "date": "2022-01", "credentialId": "b04a430d-247e-430c-b1f2-ee2da09a40a2"},
+    {"name": "SOLID com Java: Princípios da programação orientada a objetos", "issuer": "Alura", "date": "2021-01", "credentialId": "c9cf7dec-2f66-4dc8-b99b-3f11df5704a4"},
+    {"name": "The Twelve-Factor App: Metodologia para construção de aplicações robustas", "issuer": "Alura", "date": "2021-01", "credentialId": "689b5da9-29dc-46c4-9707-d4d632906c00"},
+    {"name": "Arquitetura de sistemas enterprise", "issuer": "Dev Eficiente"}
+  ],
+  "availability": "Entre em contato",
+  "stats": [
+    {"label": "Anos de experiência", "value": "4+"},
+    {"label": "Empresas", "value": "3"},
+    {"label": "Projetos open source", "value": "10+"},
+    {"label": "Estrelas no GitHub", "value": "40+"}
+  ],
+  "publications": [
+    {
+      "title": "MIST COMPUTING: A SOLUTION TO WATER WASTE IN INDUSTRY",
+      "authors": "A. B. T. Nascimento, P. E. R. Marinho, J. M. L. Oliveira, M. S. Santos",
+      "venue": "International Journal of Advanced Research (IJAR), v. 10(10), p. 1520-1528",
+      "year": "2022",
+      "doi": "10.21474/IJAR01/15630",
+      "note": "Co-autor (2º de 4 autores)",
+      "url": "https://doi.org/10.21474/IJAR01/15630"
+    }
+  ],
+  "recommendations": [
+    {
+      "author": "Gabriel Noronha",
+      "role": "Software Engineer | React, TypeScript, Java, Spring Boot",
+      "relationship": "Colega de equipe",
+      "text": "Pedro é um excelente desenvolvedor, um dos melhores com quem já trabalhei. Com uma alta capacidade de resolução de problemas e flexibilidade para lidar com as mais diversas tecnologias, ter o Pedro no time é a certeza de um trabalho bem-feito em tempo hábil."
+    },
+    {
+      "author": "Ranniere Farias",
+      "role": "Especialista em Desenvolvimento FrontEnd",
+      "relationship": "Colega de equipe",
+      "text": "Trabalhei com o Pedro em alguns projetos, sempre foram muito úteis suas ideias. É uma pessoa comprometida, esforçada e de fácil comunicação. Está sempre se atualizando e se mantém disponível sempre. É uma excelente adição para qualquer projeto."
+    },
+    {
+      "author": "Michel Oliveira da Silva",
+      "role": "Analista de Sistemas / Analista de Requisitos / Product Owner",
+      "relationship": "Colega de equipe",
+      "text": "Profissional dedicado, com grande domínio em desenvolvimento de sistemas e excelente capacidade de trabalho em equipe. Sempre colaborativo, responsável e disposto a compartilhar conhecimento, contribui de forma significativa para o sucesso dos projetos e para um ambiente de trabalho produtivo e saudável."
+    }
+  ]
+}
